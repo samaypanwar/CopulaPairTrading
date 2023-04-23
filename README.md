@@ -10,6 +10,9 @@ do copula modelling and do individual stock longing rather than pairs
 
 START yourself then change analysis to back trader refactor
 
+###
+Make only bi-variate copula for now
+Make multivariate with the help of package
 ### Things to do
 1. Fit to two pairs of data a copula in jupyter notebook. Put into python file after
 2. Expand by increasing the number of series and create
