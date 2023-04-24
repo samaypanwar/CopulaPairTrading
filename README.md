@@ -10,19 +10,21 @@ do copula modelling and do individual stock longing rather than pairs
 
 START yourself then change analysis to back trader refactor
 
-###
-Make only bi-variate copula for now
-Make multivariate with the help of package
 ### Things to do
+
+Errors that are occuring:
+1. CLME is not working -- fix
+2. Fix CMLE later, work with kendall tau approximation for now, sample and see fit with alpha
+3. Marginal sympy not working
+
+1. Plot copula for two variables
+2. Check with synthetic fit whether it looks same or not
+3. Check for cointegration between pairs and then fit
 1. Fit to two pairs of data a copula in jupyter notebook. Put into python file after
 2. Expand by increasing the number of series and create
-   1. either cointegrated pairs by testing of kental tau/johensen cointegration
+   1. either cointegrated pairs by testing of kendall tau/johansen cointegration
    2. all together
 3. Based on the above two approaches, create a basic trading strategy.
-
-Create archimedian copula class, methods should include
-give generator function --> find the inverse and the pdf and lamdifty it by sympy
-fit based on negative log likelihood of the copula pdf based on u1, u2 from INTERPOLATED ECDF (without 0, 1 extremes)
 
 
 ### Sampling Algorithm
