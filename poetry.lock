@@ -47,35 +47,35 @@ files = [
 
 [[package]]
 name = "arch"
-version = "5.4.0"
+version = "5.5.0"
 description = "ARCH for Python"
 category = "main"
 optional = false
 python-versions = ">=3.8"
 files = [
-    {file = "arch-5.4.0-cp310-cp310-macosx_10_9_x86_64.whl", hash = "sha256:f5ae6846e568f3f3884e1bfcac2970106e42ffe5943973977f79539d0c269bdf"},
-    {file = "arch-5.4.0-cp310-cp310-macosx_11_0_arm64.whl", hash = "sha256:b59b079a290613306809a34b4d00979c45537daeeee97e33cdce7765567a1978"},
-    {file = "arch-5.4.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:d154dbd39747b1eeb2f5c16f9857063e529610cabb9a7bfb74a466fb39bd19ac"},
-    {file = "arch-5.4.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:c56d5d88175e81a979288495fd735d2620224466028ccd45f58e0139a64253b7"},
-    {file = "arch-5.4.0-cp310-cp310-win_amd64.whl", hash = "sha256:690684728d7b3d87c2eecb2016fbe7b012a47375d7f26731d9c2f3787904e60a"},
-    {file = "arch-5.4.0-cp311-cp311-macosx_10_9_x86_64.whl", hash = "sha256:50c01099273df42a3d2d82b8ba7c2fc4ee65899977ea0dc577f41ddd9b6ebf09"},
-    {file = "arch-5.4.0-cp311-cp311-macosx_11_0_arm64.whl", hash = "sha256:5b5603f21b5ef36d9183a0c0de600a0e1f63dd87fd07b9884c38aa0bc1bf6d5e"},
-    {file = "arch-5.4.0-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:6fa0f56cb5299d5e529392fb241330f78388379ab96c8d4343c9521b5df53ced"},
-    {file = "arch-5.4.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:c435785852e747e66621558b37e44fb7c201586f86128f310e82ac842013b121"},
-    {file = "arch-5.4.0-cp311-cp311-win_amd64.whl", hash = "sha256:260bafa16102ece9d480c6ddfa05ad20e6414989183775a98610ed0488c4fc62"},
-    {file = "arch-5.4.0-cp38-cp38-macosx_10_9_x86_64.whl", hash = "sha256:2f1ac3faa6f4866fa0e8658fa6161e383cea1b97b073dd5046cd7dd2bb44bb19"},
-    {file = "arch-5.4.0-cp38-cp38-macosx_11_0_arm64.whl", hash = "sha256:364228aa5ed3c24e8b86bf88e98002d0ffa015da1989c074eb32cc057ca39bba"},
-    {file = "arch-5.4.0-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:3def1e915c74a87c03e48b7160cc2f8adeab3cd9f9df342d8cad428ffbcb6479"},
-    {file = "arch-5.4.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:324e7beaef163881b9aa0d633de72072ce4e49a2e7fde5bfdb506af408152806"},
-    {file = "arch-5.4.0-cp38-cp38-win32.whl", hash = "sha256:44f006f715db3e0da3eb672acc3e4462431da468182e922e1b46f5312484f5b6"},
-    {file = "arch-5.4.0-cp38-cp38-win_amd64.whl", hash = "sha256:8d332c42cab50019a5c2d6934487db9aa55c4458764558dca323dd25e2a1c8d7"},
-    {file = "arch-5.4.0-cp39-cp39-macosx_10_9_x86_64.whl", hash = "sha256:4c5e5a22f8731806f49279a1dee8230bbb74c0b768e371f703ea3bf14c0d5220"},
-    {file = "arch-5.4.0-cp39-cp39-macosx_11_0_arm64.whl", hash = "sha256:4277327893bd59f83271828cce5b5c6e750d6d17b8c6b9b75d43e28a5a8e5f16"},
-    {file = "arch-5.4.0-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:93a5dfaad0008828de0884bd5c4f4b606276a2be51aebd5e66b457dfbf5eb800"},
-    {file = "arch-5.4.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:d2a22fe5f2a3e7c71cf2cb0c675cd27f5185c1b0c6b0e6f420179495db8a08ea"},
-    {file = "arch-5.4.0-cp39-cp39-win32.whl", hash = "sha256:be36178d9faa4916aa266e6b4f2b98aa768db7cc4197b5f77cd5203ecede3e3b"},
-    {file = "arch-5.4.0-cp39-cp39-win_amd64.whl", hash = "sha256:adb7e550b471f46e30f007dffd23dc2ab7ece7cb2a733bc613603c88231e4c5b"},
-    {file = "arch-5.4.0.tar.gz", hash = "sha256:a1e83d4ffc5c09516230e58dc9f9c4af55445e2005507a51896f7ea120d9a5bd"},
+    {file = "arch-5.5.0-cp310-cp310-macosx_10_9_x86_64.whl", hash = "sha256:86054f219a3e2cd0c20cc97be242df2aa3b5f87b0fe33630603c8eab06077905"},
+    {file = "arch-5.5.0-cp310-cp310-macosx_11_0_arm64.whl", hash = "sha256:3122186c244851184c931d4c09e692f4d8456b1376c72474056582022b6638ee"},
+    {file = "arch-5.5.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:0dc1701408751502d621a717431526072dfe0cdbce726d8d3ae7321440d9086e"},
+    {file = "arch-5.5.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:f195c4e213d7dcf611c7e0313bc03c749e8e375028a66b4895a161fdb9e32aa2"},
+    {file = "arch-5.5.0-cp310-cp310-win_amd64.whl", hash = "sha256:2efe238224660296f4933a5d4b172ad24837f873084471d687991be6c12d7c81"},
+    {file = "arch-5.5.0-cp311-cp311-macosx_10_9_x86_64.whl", hash = "sha256:e4be0f70d22742597750161bfb001a2b8eaa0e9986e25976c395cb99d8a8f098"},
+    {file = "arch-5.5.0-cp311-cp311-macosx_11_0_arm64.whl", hash = "sha256:e6e64fdb1f64028763a506a9b7b08d2645995f42f0166789625c8ad77213778d"},
+    {file = "arch-5.5.0-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:9c6619a9cfde66b356a762387951ff8e5b41a5124fca1adabddd17fad3f62f92"},
+    {file = "arch-5.5.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:dd5a08cc0813827570b72dbb003a0d27e1203c3efb9110bf23a3a8c9ba0ef9a5"},
+    {file = "arch-5.5.0-cp311-cp311-win_amd64.whl", hash = "sha256:2f3281bbcbf211f7da46315badd3d475d44b53809d4170ffd6c70ecb5f3a4245"},
+    {file = "arch-5.5.0-cp38-cp38-macosx_10_9_x86_64.whl", hash = "sha256:2bd928df3d222eacae19ddb4d9dfda16a1a9438ecb10a68ecdc126d727921eb8"},
+    {file = "arch-5.5.0-cp38-cp38-macosx_11_0_arm64.whl", hash = "sha256:e36efe894805c79617b06d21268c15eacf0d7faf6fc20b5c28fcd30e8464edca"},
+    {file = "arch-5.5.0-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:d5672bf8550783a0f80a985563d353f050840dbc19e427cd4169654819553413"},
+    {file = "arch-5.5.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:ef012be009675e12922463feebecf20f1aff660202a18dbccf2bc9908f6695e5"},
+    {file = "arch-5.5.0-cp38-cp38-win32.whl", hash = "sha256:fa31869f6d24641457b509d2cfc733fd2e3e4ed43ca6976f91055b76100adc51"},
+    {file = "arch-5.5.0-cp38-cp38-win_amd64.whl", hash = "sha256:651d19519e3cf75d8681fe3add8bb403e8e4394b281da029a2ce912065da83fb"},
+    {file = "arch-5.5.0-cp39-cp39-macosx_10_9_x86_64.whl", hash = "sha256:1cfdf15e84a0e58020c04cc10c6edbabe540ffe0a4feface810fb7702221a904"},
+    {file = "arch-5.5.0-cp39-cp39-macosx_11_0_arm64.whl", hash = "sha256:fb092711e70e73cd76076224b80636c8162ea75bab82b6fdad60a803c7402ea7"},
+    {file = "arch-5.5.0-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:f1378b1cde193bed518243f14076b458e4533e89790dc10716743a3f877543bc"},
+    {file = "arch-5.5.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:4225c9f75eb604ed7136e48e64a45fd25907cd6cd0837a1b07ee23c2f4d37d19"},
+    {file = "arch-5.5.0-cp39-cp39-win32.whl", hash = "sha256:c0bca2dc84ae3039f710b7ce52ab90c37e7bafff1fbb17040603ebce00589068"},
+    {file = "arch-5.5.0-cp39-cp39-win_amd64.whl", hash = "sha256:3a4e28dcf4af285fa636314946efaaedcfdfb72802910ea84456d07608ebaf37"},
+    {file = "arch-5.5.0.tar.gz", hash = "sha256:00f64304c6fae83ce9e38e54b5cad273ee1171dc8347c793a7a66212c5205848"},
 ]
 
 [package.dependencies]
@@ -810,14 +810,14 @@ lxml = ["lxml"]
 
 [[package]]
 name = "identify"
-version = "2.5.22"
+version = "2.5.23"
 description = "File identification library for Python"
 category = "main"
 optional = false
 python-versions = ">=3.7"
 files = [
-    {file = "identify-2.5.22-py2.py3-none-any.whl", hash = "sha256:f0faad595a4687053669c112004178149f6c326db71ee999ae4636685753ad2f"},
-    {file = "identify-2.5.22.tar.gz", hash = "sha256:f7a93d6cf98e29bd07663c60728e7a4057615068d7a639d132dc883b2d54d31e"},
+    {file = "identify-2.5.23-py2.py3-none-any.whl", hash = "sha256:17d9351c028a781456965e781ed2a435755cac655df1ebd930f7186b54399312"},
+    {file = "identify-2.5.23.tar.gz", hash = "sha256:50b01b9d5f73c6b53e5fa2caf9f543d3e657a9d0bbdeb203ebb8d45960ba7433"},
 ]
 
 [package.extras]
@@ -1660,14 +1660,14 @@ test = ["coverage", "nbval", "pytest", "pytest-cov", "pytest-jupyter", "pytest-p
 
 [[package]]
 name = "nbclient"
-version = "0.7.3"
+version = "0.7.4"
 description = "A client library for executing notebooks. Formerly nbconvert's ExecutePreprocessor."
 category = "main"
 optional = false
 python-versions = ">=3.7.0"
 files = [
-    {file = "nbclient-0.7.3-py3-none-any.whl", hash = "sha256:8fa96f7e36693d5e83408f5e840f113c14a45c279befe609904dbe05dad646d1"},
-    {file = "nbclient-0.7.3.tar.gz", hash = "sha256:26e41c6dca4d76701988bc34f64e1bfc2413ae6d368f13d7b5ac407efb08c755"},
+    {file = "nbclient-0.7.4-py3-none-any.whl", hash = "sha256:c817c0768c5ff0d60e468e017613e6eae27b6fa31e43f905addd2d24df60c125"},
+    {file = "nbclient-0.7.4.tar.gz", hash = "sha256:d447f0e5a4cfe79d462459aec1b3dc5c2e9152597262be8ee27f7d4c02566a0d"},
 ]
 
 [package.dependencies]
@@ -2096,19 +2096,19 @@ tests = ["check-manifest", "coverage", "defusedxml", "markdown2", "olefile", "pa
 
 [[package]]
 name = "platformdirs"
-version = "3.2.0"
+version = "3.4.0"
 description = "A small Python package for determining appropriate platform-specific dirs, e.g. a \"user data dir\"."
 category = "main"
 optional = false
 python-versions = ">=3.7"
 files = [
-    {file = "platformdirs-3.2.0-py3-none-any.whl", hash = "sha256:ebe11c0d7a805086e99506aa331612429a72ca7cd52a1f0d277dc4adc20cb10e"},
-    {file = "platformdirs-3.2.0.tar.gz", hash = "sha256:d5b638ca397f25f979350ff789db335903d7ea010ab28903f57b27e1b16c2b08"},
+    {file = "platformdirs-3.4.0-py3-none-any.whl", hash = "sha256:01437886022decaf285d8972f9526397bfae2ac55480ed372ed6d9eca048870a"},
+    {file = "platformdirs-3.4.0.tar.gz", hash = "sha256:a5e1536e5ea4b1c238a1364da17ff2993d5bd28e15600c2c8224008aff6bbcad"},
 ]
 
 [package.extras]
-docs = ["furo (>=2022.12.7)", "proselint (>=0.13)", "sphinx (>=6.1.3)", "sphinx-autodoc-typehints (>=1.22,!=1.23.4)"]
-test = ["appdirs (==1.4.4)", "covdefaults (>=2.3)", "pytest (>=7.2.2)", "pytest-cov (>=4)", "pytest-mock (>=3.10)"]
+docs = ["furo (>=2023.3.27)", "proselint (>=0.13)", "sphinx (>=6.1.3)", "sphinx-autodoc-typehints (>=1.23,!=1.23.4)"]
+test = ["appdirs (==1.4.4)", "covdefaults (>=2.3)", "pytest (>=7.3.1)", "pytest-cov (>=4)", "pytest-mock (>=3.10)"]
 
 [[package]]
 name = "pre-commit"
@@ -2570,14 +2570,14 @@ test = ["pytest (>=6,!=7.0.0,!=7.0.1)", "pytest-cov (>=3.0.0)", "pytest-qt"]
 
 [[package]]
 name = "requests"
-version = "2.28.2"
+version = "2.29.0"
 description = "Python HTTP for Humans."
 category = "main"
 optional = false
-python-versions = ">=3.7, <4"
+python-versions = ">=3.7"
 files = [
-    {file = "requests-2.28.2-py3-none-any.whl", hash = "sha256:64299f4909223da747622c030b781c0d7811e359c37124b4bd368fb8c6518baa"},
-    {file = "requests-2.28.2.tar.gz", hash = "sha256:98b1b2782e3c6c4904938b84c0eb932721069dfdb9134313beff7c83c2df24bf"},
+    {file = "requests-2.29.0-py3-none-any.whl", hash = "sha256:e8f3c9be120d3333921d213eef078af392fba3933ab7ed2d1cba3b56f2568c3b"},
+    {file = "requests-2.29.0.tar.gz", hash = "sha256:f2e34a75f4749019bb0e3effb66683630e4ffeaf75819fb51bebef1bf5aef059"},
 ]
 
 [package.dependencies]

@@ -10,6 +10,12 @@ do copula modelling and do individual stock longing rather than pairs
 
 START yourself then change analysis to back trader refactor
 
+basic backtrader logic
+1. trade class
+2. enter, exit signals
+3. step by step logic
+4. tracking trades
+
 ### Things to do
 
 Errors that are occuring:
